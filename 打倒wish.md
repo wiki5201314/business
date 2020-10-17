@@ -53,7 +53,14 @@
 
 ## 单量暴跌
 * 用PB疯狂的推送口罩，达到目标200，一共5个店，每个店铺分配40单。
-* PB花不掉，将口罩分成10个一组。（测试了6组）
+* PB花不掉，将口罩分成10个一组。(还是不花钱)
+* 修改标题
+    * 最早标题 - Cute Cartoon Face Masks Dust Mask Men and Women Cotton Face Masks
+    * 现在标题 - Cute Cartoon Face Cover Mask Unisex Outdoor Sport Protective
+    * 别人标题 - Print Mask Washable Breathable Mask Fastival Mask Reusable
+    * 别人标题 - Unisex Face Masks Print Mask Washable Reusable Mask Festival Mask
+    * 标签 - Cute, fashion, Masks, Face mask, cotton mask, mouth mask, dustproof, festival mask, unisex
+    * 组合标题 - Cute Cartoon Face Masks Dust Mask Unisex Cotton Masks Print Washable Breathable Mask
     
 ## 延迟罚款、合并费和丢件
 * 口罩添加MASK关键词，避免出现A+，就没有了合并费
