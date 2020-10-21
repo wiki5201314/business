@@ -10,6 +10,7 @@
 ## A+问题
 * 测试敏感词以避免A+(sunglasses, disinfected, sulphur, toilet water, oil, polish, glue)
 * 美国发通邮只需要3.4，2美金的利润是4.6
+* 如果可以不发A+，完全可以1+1的模式继续传ETSY的胸针+wish1+0新品。
 
 ## 单量暴跌
 * PB花不掉，再等一天。
