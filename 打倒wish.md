@@ -13,10 +13,16 @@
 * 如果可以不发A+，完全可以1+1的模式继续传ETSY的胸针+wish1+0新品。
 
 ## 单量暴跌
-* PB花不掉，再等一天。
+* PB推广花不了钱
 * 修改标题
     * 标签 - Cute, fashion, Masks, Face mask, cotton mask, mouth mask, dustproof, festival mask, unisex
     * 组合标题 - Cute Cartoon Face Masks Dust Mask Unisex Cotton Masks Print Washable Breathable Mask
+* 还是不出单，设置多个不同的标题组合来进行测试（不同价格+不同标题）
+    * Adult Masks Dustproof Face Mask Washable Funny Hip Hop Anime Mask Cartoon Cosplay Costume Accessory
+    * Cute Cartoon Face Masks Dust Mask Men and Women Cotton Face Masks
+    * Dust Mask Adult Men and Women Fashion Personality Dustproof Breathable Cotton Fabric Mask
+    * Cute Woman Cotton Face Masks Dustproof Windproof Half Face Mouth Mask Washable Mask Reusable Masks
+    
 
 ## 仿品罚款
 * 采集系统更新仿品过滤系统（数据库进行筛选）
